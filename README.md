@@ -159,6 +159,7 @@ to solve this problem.
  - People prefer to rent bike more in summer than in winter.
  - Bike demand is more on clear days than on snowy or rainy days.
  - Temperature range from 22 to 25(°C) has more demand for bike.
+
 'Hour', 'Temperature(°C)', 'Humidity', 'Wind_speed','Visibility ', 'Dew_point_temperature',
 'Solar_Radiation', 'Rainfall', 'Snowfall', 'Seasons', 'Holiday', 'month', 'day of week '
 regulates bike demand.
